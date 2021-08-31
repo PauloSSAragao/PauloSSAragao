@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Paulo Sergio SAMPAIO de ARAGAO, GIS Analyst/Designer and I love coding, reading, music playing and soccer
 
 <!--
 **PauloSSAragao/PauloSSAragao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
